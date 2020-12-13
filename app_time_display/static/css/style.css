@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+
+h1, h2{
+
+    vertical-align: center;
+
+    border: solid 5px red;
+    background-color: yellow;
+    text-align: center;
+}
